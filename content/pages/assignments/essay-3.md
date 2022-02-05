@@ -23,13 +23,72 @@ Second, for the critical sources that you select, think about how you intend to 
 
 Thus far we have examined several literary approaches in the course of the semester:
 
-| Narrator | (_Gatsby_ and _Waitress_) |
-| Character | (_Gatsby_ and _Waitress_) |
-| Autobiographical | (_Fun Home_) |
-| The Archive | (_Beloved_) |
-| New Historicism | (_Benito Cereno_) |
-| Feminist Analysis | (_Woman Hollering Creek_) |
-| Cultural Analysis | (_This Is How You Lose Her_) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+Narrator
+{{< tdclose >}}
+{{< tdopen >}}
+(_Gatsby_ and _Waitress_)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Character
+{{< tdclose >}}
+{{< tdopen >}}
+(_Gatsby_ and _Waitress_)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Autobiographical
+{{< tdclose >}}
+{{< tdopen >}}
+(_Fun Home_)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+The Archive
+{{< tdclose >}}
+{{< tdopen >}}
+(_Beloved_)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+New Historicism
+{{< tdclose >}}
+{{< tdopen >}}
+(_Benito Cereno_)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Feminist Analysis
+{{< tdclose >}}
+{{< tdopen >}}
+(_Woman Hollering Creek_)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Cultural Analysis
+{{< tdclose >}}
+{{< tdopen >}}
+(_This Is How You Lose Her_)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For the previous writing assignment on _Fun Home_ or _Beloved_, I asked that each of you define your project according to the following terms:
 
